@@ -1,4 +1,4 @@
-# Material-ocean-gboard-theme
+# Material-ocean-gboard-theme (Root required)
 
 <p align="center">
 <img src="/Material_lively.png" alt="Material_lively">
@@ -6,10 +6,9 @@
 
 
 # How to apply:
-- Download the <a href="https://t.me/gboardthemes/44316">Rboard Magisk Module</a> and the <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases"> Rboard Themes Manager app</a><br>
-- Install the Magisk module in the Magisk Manager (Magisk is root) and reboot your phone<br>
-- After you installed the module and rebooted the phone install the Rboard Theme Manager app<br>
-- Open and Grant root and permission for Rboard Theme Manager App<br>
+- Download the <a href="https://t.me/rkbdigboard/1178"> Rboard Themes Manager app</a><br>
+- Install the Rboard Theme Manager app<br>
+- Open and Grant root and permission for Rboard Theme Manager App and reboot your phone
 - After you done then extract the zip and in the zip you found the files and zip select all and paste here:
 
             /system/etc/gboard_themes
